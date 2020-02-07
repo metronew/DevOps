@@ -8,3 +8,5 @@ b.split()
 
 a=Hello+waheed
 print (a)
+
+print (1)
