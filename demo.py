@@ -5,3 +5,6 @@ len(a)
 print (a)
 b="Hi How Are You"
 b.split()
+
+a=Hello+waheed
+print (a)
