@@ -1,3 +1,4 @@
+pwd
 apt-get update -y
 apt-get upgrade -y
 cat /etc/os-release 
