@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1593517435,,"wq"
+|2,0,1593520235,,"wq"
 :q!
 |2,0,1593511484,,"q!"
 
@@ -45,38 +45,52 @@
 |3,1,36,0,1,0,1593510963," "
 
 # File marks:
-'0  9  8  ~/git/sample
-|4,48,9,8,1593517435,"~/git/sample"
-'1  10  11  ~/git/sample
-|4,49,10,11,1593516831,"~/git/sample"
+'0  1  11  ~/mass
+|4,48,1,11,1593520235,"~/mass"
+'1  9  8  ~/git/sample
+|4,49,9,8,1593517435,"~/git/sample"
 '2  10  11  ~/git/sample
 |4,50,10,11,1593516831,"~/git/sample"
-'3  8  11  ~/git/sample
-|4,51,8,11,1593515928,"~/git/sample"
+'3  10  11  ~/git/sample
+|4,51,10,11,1593516831,"~/git/sample"
 '4  8  11  ~/git/sample
 |4,52,8,11,1593515928,"~/git/sample"
 '5  8  11  ~/git/sample
 |4,53,8,11,1593515928,"~/git/sample"
 '6  8  11  ~/git/sample
 |4,54,8,11,1593515928,"~/git/sample"
-'7  3  14  ~/git/sample
-|4,55,3,14,1593515787,"~/git/sample"
+'7  8  11  ~/git/sample
+|4,55,8,11,1593515928,"~/git/sample"
 '8  3  14  ~/git/sample
 |4,56,3,14,1593515787,"~/git/sample"
 '9  3  14  ~/git/sample
 |4,57,3,14,1593515787,"~/git/sample"
 
 # Jumplist (newest first):
+-'  1  11  ~/mass
+|4,39,1,11,1593520235,"~/mass"
+-'  9  8  ~/git/sample
+|4,39,9,8,1593517435,"~/git/sample"
 -'  9  8  ~/git/sample
 |4,39,9,8,1593517435,"~/git/sample"
 -'  10  11  ~/git/sample
 |4,39,10,11,1593517429,"~/git/sample"
+-'  10  11  ~/git/sample
+|4,39,10,11,1593517429,"~/git/sample"
+-'  10  11  ~/git/sample
+|4,39,10,11,1593516831,"~/git/sample"
 -'  10  11  ~/git/sample
 |4,39,10,11,1593516831,"~/git/sample"
 -'  8  11  ~/git/sample
 |4,39,8,11,1593516822,"~/git/sample"
 -'  8  11  ~/git/sample
 |4,39,8,11,1593516822,"~/git/sample"
+-'  8  11  ~/git/sample
+|4,39,8,11,1593516822,"~/git/sample"
+-'  8  11  ~/git/sample
+|4,39,8,11,1593516822,"~/git/sample"
+-'  8  11  ~/git/sample
+|4,39,8,11,1593515928,"~/git/sample"
 -'  8  11  ~/git/sample
 |4,39,8,11,1593515928,"~/git/sample"
 -'  3  14  ~/git/sample
@@ -85,6 +99,14 @@
 |4,39,3,14,1593515916,"~/git/sample"
 -'  3  14  ~/git/sample
 |4,39,3,14,1593515916,"~/git/sample"
+-'  3  14  ~/git/sample
+|4,39,3,14,1593515916,"~/git/sample"
+-'  3  14  ~/git/sample
+|4,39,3,14,1593515916,"~/git/sample"
+-'  3  14  ~/git/sample
+|4,39,3,14,1593515916,"~/git/sample"
+-'  3  14  ~/git/sample
+|4,39,3,14,1593515787,"~/git/sample"
 -'  3  14  ~/git/sample
 |4,39,3,14,1593515787,"~/git/sample"
 -'  1  0  ~/git/sample
@@ -95,6 +117,46 @@
 |4,39,1,0,1593515776,"~/git/sample"
 -'  1  0  ~/git/sample
 |4,39,1,0,1593515776,"~/git/sample"
+-'  1  0  ~/git/sample
+|4,39,1,0,1593515776,"~/git/sample"
+-'  1  0  ~/git/sample
+|4,39,1,0,1593515776,"~/git/sample"
+-'  1  0  ~/git/sample
+|4,39,1,0,1593515776,"~/git/sample"
+-'  1  0  ~/git/sample
+|4,39,1,0,1593515776,"~/git/sample"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
+-'  3  2  ~/git/pp.py
+|4,39,3,2,1593511484,"~/git/pp.py"
 -'  3  2  ~/git/pp.py
 |4,39,3,2,1593511484,"~/git/pp.py"
 -'  3  2  ~/git/pp.py
@@ -159,6 +221,38 @@
 |4,39,1,0,1593511230,"~/git/pp.py"
 -'  1  0  ~/git/pp.py
 |4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
+-'  1  0  ~/git/pp.py
+|4,39,1,0,1593511230,"~/git/pp.py"
 -'  2  19  ~/hello.java
 |4,39,2,19,1593511002,"~/hello.java"
 -'  2  19  ~/hello.java
@@ -173,102 +267,15 @@
 |4,39,2,19,1593511002,"~/hello.java"
 -'  2  19  ~/hello.java
 |4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  2  19  ~/hello.java
-|4,39,2,19,1593511002,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
--'  3  34  ~/hello.java
-|4,39,3,34,1593510978,"~/hello.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/mass
+	*	1593520234	0
+	"	1	11
+	^	1	12
+	.	1	10
+	+	1	10
 
 > ~/git/sample
 	*	1593517434	0
